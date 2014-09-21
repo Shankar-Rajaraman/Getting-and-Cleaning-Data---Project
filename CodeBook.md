@@ -9,13 +9,13 @@ The table that is explained in this document is the final tidy output "Tidy_Avg_
 
 "Tidy_Avg_Summary_Final" has 4 variables(columns) and 11880 rows. The column variables are explained below.
 
-=============================DATA DICTIONARY- Tidy_Avg_Summary_Final ==============================
+=================DATA DICTIONARY- Tidy_Avg_Summary_Final============ 
 
 Subject -1st variable/column
 
         -Value Type - Integer factor. 
         
-        - The people who have been experimented with -30 people in total with 21 for train and 7  for      test. Integer factors are assigned. values are  
+        - The people who have been experimented with -> 30 people in total with 21 for train and 7 for    test. Integer factors are assigned. values are  
         1: 1st subject
         2: 2nd subject
         .:
@@ -60,7 +60,7 @@ Mean_Std_Variables - 3rd variable/column
         X- X component of signal
         Y - Y component of signal
         Z- Z component of signal
-Sample interpretation -tBodyAcc-mean-X - Mean of X-component of the body acceration taken in time domain.The 66 unique entries are listed below.
+Sample interpretation -tBodyAcc-mean-X -> Mean of X-component of the body acceration taken in time domain.The 66 unique entries are listed below.
 
         tBodyAcc_mean_X :
         tBodyAcc_mean_Y :
@@ -131,9 +131,11 @@ Sample interpretation -tBodyAcc-mean-X - Mean of X-component of the body accerat
 
 
 Average - 4th variable/column 
+
         - Value Type - numeric
-        This is the average value of each entry of the 3rd variable ("Mean_Std_Variables") grouped by subject and activity. There are  11880 unique observations. Sample values look like :-
-        0.2215982, 0.2612376, 0.2789176, 0.2773308, 0.2891883, 0.2554617.
+
+        This is the average value of each entry of the 3rd variable ("Mean_Std_Variables") grouped by         subject and activity. 
+Sample values look like : 0.2215982, 0.2612376, 0.2789176, 0.2773308, 0.2891883, 0.2554617.
         
 #######################################################################################################
 
