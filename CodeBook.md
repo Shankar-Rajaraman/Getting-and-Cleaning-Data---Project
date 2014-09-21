@@ -134,8 +134,7 @@ Average - 4th variable/column
 
         - Value Type - numeric
 
-        This is the average value of each entry of the 3rd variable ("Mean_Std_Variables") grouped by         subject and activity. 
-Sample values look like : 0.2215982, 0.2612376, 0.2789176, 0.2773308, 0.2891883, 0.2554617.
+        This is the average value of each entry of the 3rd variable ("Mean_Std_Variables") grouped by subject and activity. Sample values look like : 0.2215982, 0.2612376, 0.2789176, 0.2773308, 0.2891883, 0.2554617.
         
 #######################################################################################################
 
