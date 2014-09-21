@@ -17,7 +17,7 @@ The github folder - "https://github.com/Shankar-Rajaraman/Getting-and-Cleaning-D
 3.)CodeBook.md--> A codebook explaining all the variables of the tidy data set and its details.
 
 
-How the run_anlaysis.R script works
+How the run_analysis.R script works
 ==================================
 
 All files are downloaded to "C:\Shankar_PC\CopiedFromFreeAgent\Coursera\Getting and Cleaning Data\PROJ1\UCI HAR Dataset" folder
