@@ -1,3 +1,5 @@
+# run_anlaysis.R file
+
 # Read relevant files from the downloaded UCI HAR Dataset appropriately 
 
 setwd("C:/Shankar_PC/CopiedFromFreeAgent/Coursera/Getting and Cleaning Data/PROJ1/UCI HAR Dataset")
