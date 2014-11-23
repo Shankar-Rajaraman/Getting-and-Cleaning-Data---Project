@@ -15,7 +15,7 @@ Subject -1st variable/column
 
         -Value Type - Integer factor. 
         
-        - The people who have been experimented with -> 30 people in total with 21 for train and 7 for    test. Integer factors are assigned. values are  
+        - The people who have been experimented with -> 30 people in total with 21 for train and 9 for    test. Integer factors are assigned. values are  
         1: 1st subject
         2: 2nd subject
         .:
@@ -51,7 +51,7 @@ Mean_Std_Variables - 3rd variable/column
         t- represents time domain,
         f- frequency
         body- Body
-        Acc - accelration
+        Acc - acceleration
         gyro - angular measurements.
         jerk -jerks introduced by either body/gyro. 
         Mag- magnitude

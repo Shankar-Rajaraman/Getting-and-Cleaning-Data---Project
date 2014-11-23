@@ -1,18 +1,18 @@
 ---
 title: "Readme.md"
 author: "Shankar Rajaraman"
-date: "Sunday, September 21, 2014"
+date: "Sunday, November 20, 2014"
 output: word_document
 ---
 
 Getting-and-Cleaning-Data---Project
 ===================================
 
-The github folder - "https://github.com/Shankar-Rajaraman/Getting-and-Cleaning-Data---Project" contains all the necessary files required to be submitted for the project  coursework - "Getting and Cleaning Data" of the Data Science specialization in Coursera. The project objective is to create a tidy data set from a raw wearable computing dataset provided by the courese. The folder contains 4 files viz.
+The github folder - "https://github.com/Shankar-Rajaraman/Getting-and-Cleaning-Data---Project" contains all the necessary files required to be submitted for the project  coursework - "Getting and Cleaning Data" of the Data Science specialization in Coursera. The project objective is to create a tidy data set from a raw wearable computing dataset provided by the course. The folder contains 4 files as below and the output file as well( which is not required).
 
 1) README.md  -->This present file
 
-2.)run_analysis.R --> A R script file that contains that code that convert the raw(untidy) file to a tidy file. The procedural details of how the script works is explained below.
+2.)run_analysis.R --> A R script file that contains the code that converts the raw(untidy) file to a tidy file. The procedural details of how the script works is explained below.
 
 3.)CodeBook.md--> A codebook explaining all the variables of the tidy data set and its details.
 
@@ -27,7 +27,7 @@ Relevant data files used
 -----------------------
 1.) X_test (2947x 561) and X_train(7352 x 561) datasets contain the rawdata  data. 
 
-2.) subject_test (2947x1, 7 people) and subject_train ( 7352 x1, 21 people) contain the subjects( the people) on whom the experiment was performed. 
+2.) subject_test (2947x1, 9 people) and subject_train ( 7352 x1, 21 people) contain the subjects( the people) on whom the experiment was performed. 
 
 3.) features (561x2) contains all the measurment variables ( like acceleration's mean,std.dev, min, max etc.)
 
